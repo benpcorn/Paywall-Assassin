@@ -1,0 +1,17 @@
+{
+  "name": "Paywall Assassin",
+  "description": "Blocks annoying paywalls and registration overlays.",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": [
+    "declarativeNetRequest",
+    "declarativeNetRequestFeedback"
+  ],
+  "declarative_net_request": {
+    "rule_resources": [{
+      "id": "paywalls",
+      "enabled": true,
+      "path": "rules.json"
+    }]
+  }
+}

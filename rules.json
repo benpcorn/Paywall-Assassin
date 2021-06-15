@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "tinypass.com", "resourceTypes": ["script"] }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "meter-svc.nytimes.com", "resourceTypes": ["xmlhttprequest"] }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "mwcm.nytimes.com/capi/metered_assets/", "resourceTypes": ["xmlhttprequest"] }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "mwcm.nytimes.com/capi/metered_assets/", "resourceTypes": ["xmlhttprequest"] }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "https://cooking.nytimes.com/api/v3/access", "resourceTypes": ["xmlhttprequest"] }
+  }
+]
