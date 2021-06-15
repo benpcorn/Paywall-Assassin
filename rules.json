@@ -28,5 +28,11 @@
     "priority": 1,
     "action": { "type": "block" },
     "condition": {"urlFilter": "https://cooking.nytimes.com/api/v3/access", "resourceTypes": ["xmlhttprequest"] }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {"urlFilter": "https://meter.bostonglobe.com/js/meter.js", "resourceTypes": ["script"] }
   }
 ]

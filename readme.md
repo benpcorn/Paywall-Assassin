@@ -14,4 +14,5 @@ _Paywall Assassin is a web browser extension to help bypass paywalls for selecte
 
 ### Bypass the following sites' paywalls with this extension:
 
-[NY Times](https://www.nytimes.com)
+[NY Times](https://www.nytimes.com)\
+[Boston Globe](https://www.bostonglobe.com/)
