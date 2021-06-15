@@ -14,6 +14,4 @@ _Paywall Assassin is a web browser extension to help bypass paywalls for selecte
 
 ### Bypass the following sites' paywalls with this extension:
 
-[Adweek](https://www.adweek.com)\
-[Algemeen Dagblad](https://www.ad.nl)\
-[American Banker](https://www.americanbanker.com)\
+[NY Times](https://www.nytimes.com)
